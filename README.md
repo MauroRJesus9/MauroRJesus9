@@ -2,19 +2,9 @@
 ### Trainee @ Loop Future
 
 ## About Me
-I'm a Trainee at Loop Future, where I attend an academy and learn about Python, Project Management and Infrastructures.
+I'm a Trainee at Loop Future in the Infrastructures branch.
 
-## 🔭 Currently Working On
--
 
-## 🌱 Tech Stack & Interests
-- **Languages:** Python, Java, SQL
-- **Frameworks:** FastAPI, React
-- **Cloud:** AWS (Lambda, RDS, S3)
-- **Tools:** Docker, GitHub Actions, PostgreSQL
-- **Focus Areas:** Fintech, API Development, Cloud Architecture
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurorjesus)
 
-## 📫 Let's Connect
-- LinkedIn: [[Mauro Jesus](https://www.linkedin.com/in/maurorjesus/)]
-- Professional Email: [mauroarjesus@gmail.com]
-- Company: Loop Future
