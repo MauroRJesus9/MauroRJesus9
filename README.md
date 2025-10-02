@@ -1,14 +1,20 @@
-# Olá, eu sou a Mauro! 👋
+# Hi there! 👋 I'm Mauro
+### Trainee @ Loop Future
 
+## About Me
+I'm a Trainee at Loop Future, where I attend an academy and learn about Python, Project Management and Infrastructures.
 
-## 🚀 Sobre mim
-Sou um trainee na loop academy com experiência em desenvolvimento full stack
+## 🔭 Currently Working On
+-
 
+## 🌱 Tech Stack & Interests
+- **Languages:** Python, Java, SQL
+- **Frameworks:** FastAPI, React
+- **Cloud:** AWS (Lambda, RDS, S3)
+- **Tools:** Docker, GitHub Actions, PostgreSQL
+- **Focus Areas:** Fintech, API Development, Cloud Architecture
 
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurorjesus/)
-
-
-## 🛠 Habilidades
-Javascript, HTML, CSS, React, Laravel, MongoDB, PostgreSQL
-
+## 📫 Let's Connect
+- LinkedIn: [[Mauro Jesus](https://www.linkedin.com/in/maurorjesus/)]
+- Professional Email: [mauroarjesus@gmail.com]
+- Company: Loop Future
